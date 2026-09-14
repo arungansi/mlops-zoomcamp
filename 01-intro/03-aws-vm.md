@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=IXSiYkP23zo&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK"
+prev_url: 02-codespaces.md
+next_url: 04-read-parquet.md
 ---
 
 # VM in AWS

@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=kP3lzh_HfWY&list=PL3MmuxUbc_hIUISrlu
 code:
   - label: "Evidently metric calculation"
     path: evidently_metrics_calculation.py
+prev_url: 03-reference-model.md
+next_url: 05-evidently-dashboard.md
 ---
 
 # Evidently Metrics Calculation

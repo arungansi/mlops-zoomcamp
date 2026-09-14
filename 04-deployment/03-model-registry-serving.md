@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=aewOpHSCkqI&list=PL3MmuxUbc_hIUISrlu
 code:
   - label: "MLflow-backed web service"
     path: web-service-mlflow/predict.py
+prev_url: 02-flask-docker.md
+next_url: 04-streaming-kinesis-lambda.md
 ---
 
 # Web Services: Getting Models from the Model Registry

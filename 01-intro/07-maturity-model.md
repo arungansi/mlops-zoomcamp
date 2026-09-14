@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=XwTH8BDGzYk&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK"
+prev_url: 06-course-overview.md
+next_url: ../02-experiment-tracking/01-experiment-tracking-intro.md
 ---
 
 # MLOps Maturity Model

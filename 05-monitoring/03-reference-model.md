@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=IjNrkqMYQeQ&list=PL3MmuxUbc_hIUISrlu
 code:
   - label: "Baseline model notebook"
     path: baseline_model_nyc_taxi_data.ipynb
+prev_url: 02-monitoring-environment.md
+next_url: 04-evidently-metrics.md
 ---
 
 # Prepare Reference and Model

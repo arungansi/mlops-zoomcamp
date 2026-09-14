@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=zRcLgT7Qnio&list=PL3MmuxUbc_hIUISrlu
 code:
   - label: "Terraform infrastructure"
     path: code/infrastructure/main.tf
+prev_url: 06-makefiles.md
+next_url: 08-terraform-modules.md
 ---
 
 # Terraform: Introduction

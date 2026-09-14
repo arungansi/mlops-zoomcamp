@@ -5,6 +5,8 @@ code:
     path: code/model.py
   - label: "pytest model tests"
     path: code/tests/model_test.py
+prev_url: ../05-monitoring/10-monitoring-example.md
+next_url: 02-docker-compose-tests.md
 ---
 
 # Testing Python Code with pytest

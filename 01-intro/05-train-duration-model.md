@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=iRunifGSHFc&list=PL3MmuxUbc_hIUISrlu
 code:
   - label: "Duration prediction notebook"
     path: duration-prediction.ipynb
+prev_url: 04-read-parquet.md
+next_url: 06-course-overview.md
 ---
 
 # Training a Ride Duration Prediction Model

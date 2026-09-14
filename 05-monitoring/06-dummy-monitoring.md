@@ -5,6 +5,8 @@ code:
     path: dummy_metrics_calculation.py
   - label: "Monitoring Compose stack"
     path: docker-compose.yml
+prev_url: 05-evidently-dashboard.md
+next_url: 07-data-quality.md
 ---
 
 # Dummy Monitoring

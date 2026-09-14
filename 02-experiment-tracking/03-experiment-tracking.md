@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=iaJz-T7VWec&list=PL3MmuxUbc_hIUISrlu
 code:
   - label: "Duration prediction notebook"
     path: duration-prediction.ipynb
+prev_url: 02-mlflow-getting-started.md
+next_url: 04-model-management.md
 ---
 
 # Experiment Tracking with MLflow

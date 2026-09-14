@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=OVUPIX88q88&list=PL3MmuxUbc_hIUISrlu
 code:
   - label: "Duration prediction notebook"
     path: duration-prediction.ipynb
+prev_url: 03-experiment-tracking.md
+next_url: 05-model-registry.md
 ---
 
 # Model Management

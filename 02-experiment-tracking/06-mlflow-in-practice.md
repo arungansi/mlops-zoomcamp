@@ -7,6 +7,8 @@ code:
     path: running-mlflow-examples/scenario-2.ipynb
   - label: "Scenario 3"
     path: running-mlflow-examples/scenario-3.ipynb
+prev_url: 05-model-registry.md
+next_url: 07-mlflow-alternatives.md
 ---
 
 # MLflow in Practice

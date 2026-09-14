@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=MiA7LQin9c8&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK"
+prev_url: ../01-intro/07-maturity-model.md
+next_url: 02-mlflow-getting-started.md
 ---
 
 # Experiment Tracking Intro

@@ -5,6 +5,8 @@ code:
     path: code/infrastructure/modules/kinesis/main.tf
   - label: "Terraform root module"
     path: code/infrastructure/main.tf
+prev_url: 07-terraform-introduction.md
+next_url: 09-terraform-pipeline.md
 ---
 
 # Terraform: Modules and Output Variables

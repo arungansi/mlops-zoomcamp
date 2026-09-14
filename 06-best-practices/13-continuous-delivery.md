@@ -5,6 +5,7 @@ code:
     path: code/scripts/deploy_manual.sh
   - label: "Project deployment commands"
     path: code/README.md
+prev_url: 12-continuous-integration.md
 ---
 
 # Continuous Delivery

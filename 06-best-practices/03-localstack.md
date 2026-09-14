@@ -5,6 +5,8 @@ code:
     path: code/integration-test/test_kinesis.py
   - label: "LocalStack Compose file"
     path: code/integration-test/docker-compose.yaml
+prev_url: 02-docker-compose-tests.md
+next_url: 04-linting-formatting.md
 ---
 
 # Testing Cloud Services with LocalStack

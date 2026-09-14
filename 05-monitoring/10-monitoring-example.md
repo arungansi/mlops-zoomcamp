@@ -6,6 +6,8 @@ code:
     path: evidently_metrics_calculation.py
   - label: "Debugging notebook"
     path: debugging_nyc_taxi_data.ipynb
+prev_url: 09-debugging-tests-reports.md
+next_url: ../06-best-practices/01-pytest.md
 ---
 
 # Monitoring Example

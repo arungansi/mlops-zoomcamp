@@ -5,6 +5,8 @@ code:
     path: code/pyproject.toml
   - label: "Pre-commit configuration"
     path: code/.pre-commit-config.yaml
+prev_url: 03-localstack.md
+next_url: 05-pre-commit.md
 ---
 
 # Code Quality: Linting and Formatting

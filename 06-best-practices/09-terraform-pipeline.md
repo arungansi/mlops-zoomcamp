@@ -5,6 +5,8 @@ code:
     path: code/infrastructure/main.tf
   - label: "Manual deployment script"
     path: code/scripts/deploy_manual.sh
+prev_url: 08-terraform-modules.md
+next_url: 10-terraform-testing.md
 ---
 
 # Build an End-to-end Ride Prediction Workflow

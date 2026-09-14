@@ -5,6 +5,8 @@ code:
     path: code/commands.md
   - label: "Duration prediction notebook"
     path: code/duration-prediction.ipynb
+prev_url: ../02-experiment-tracking/07-mlflow-alternatives.md
+next_url: 02-notebook-to-script.md
 ---
 
 # Introduction to ML Pipelines

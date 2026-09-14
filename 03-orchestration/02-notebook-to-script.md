@@ -5,6 +5,8 @@ code:
     path: code/duration-prediction.py
   - label: "Duration prediction notebook"
     path: code/duration-prediction.ipynb
+prev_url: 01-ml-pipelines.md
+next_url: 03-orchestrator.md
 ---
 
 # Turning the Notebook into a Python Script

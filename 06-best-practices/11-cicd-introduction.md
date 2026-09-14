@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=OMwwZ0Z_cdk&list=PL3MmuxUbc_hIUISrlu
 code:
   - label: "Best-practices project code"
     path: code/README.md
+prev_url: 10-terraform-testing.md
+next_url: 12-continuous-integration.md
 ---
 
 # CI/CD: Introduction

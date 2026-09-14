@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=lmMZ7Axk2T8&list=PL3MmuxUbc_hIUISrlu
 code:
   - label: "Pre-commit hooks"
     path: code/.pre-commit-config.yaml
+prev_url: 04-linting-formatting.md
+next_url: 06-makefiles.md
 ---
 
 # Git Pre-commit Hooks

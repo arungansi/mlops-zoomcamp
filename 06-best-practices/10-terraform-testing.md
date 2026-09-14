@@ -5,6 +5,8 @@ code:
     path: code/scripts/test_cloud_e2e.sh
   - label: "Kinesis integration test"
     path: code/integration-test/test_kinesis.py
+prev_url: 09-terraform-pipeline.md
+next_url: 11-cicd-introduction.md
 ---
 
 # Test the Pipeline End to End

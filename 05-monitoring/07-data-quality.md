@@ -5,6 +5,8 @@ code:
     path: evidently_metrics_calculation.py
   - label: "Baseline model notebook"
     path: baseline_model_nyc_taxi_data.ipynb
+prev_url: 06-dummy-monitoring.md
+next_url: 08-save-grafana-dashboard.md
 ---
 
 # Data Quality Monitoring

@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=F6DZdvbRZQQ&list=PL3MmuxUbc_hIUISrlu
 code:
   - label: "Project Makefile"
     path: code/Makefile
+prev_url: 05-pre-commit.md
+next_url: 07-terraform-introduction.md
 ---
 
 # Makefiles and make

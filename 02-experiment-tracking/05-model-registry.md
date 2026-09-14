@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=TKHU7HAvGH8&list=PL3MmuxUbc_hIUISrlu
 code:
   - label: "Model registry notebook"
     path: model-registry.ipynb
+prev_url: 04-model-management.md
+next_url: 06-mlflow-in-practice.md
 ---
 
 # Model Registry

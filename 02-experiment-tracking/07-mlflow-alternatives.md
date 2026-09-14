@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=Lugy1JPsBRY&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK"
+prev_url: 06-mlflow-in-practice.md
+next_url: ../03-orchestration/01-ml-pipelines.md
 ---
 
 # MLflow: Benefits, Limitations and Alternatives

@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=r94QjpX9vSE&list=PL3MmuxUbc_hIUISrlu
 code:
   - label: "Duration prediction notebook"
     path: duration-prediction.ipynb
+prev_url: 03-aws-vm.md
+next_url: 05-train-duration-model.md
 ---
 
 # Reading Parquet Data

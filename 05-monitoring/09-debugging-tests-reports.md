@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=sNSk3ojISh8&list=PL3MmuxUbc_hIUISrlu
 code:
   - label: "Debugging notebook"
     path: debugging_nyc_taxi_data.ipynb
+prev_url: 08-save-grafana-dashboard.md
+next_url: 10-monitoring-example.md
 ---
 
 # Debugging with Test Suites and Reports

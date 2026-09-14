@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=SQ0jBwd_3kk&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK"
+prev_url: ../04-deployment/06-mage-batch-scoring.md
+next_url: 02-monitoring-environment.md
 ---
 
 # Intro to ML Monitoring

@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=TCqr9HNcrsI&list=PL3MmuxUbc_hIUISrlu
 code:
   - label: "Kinesis and Lambda example"
     path: streaming/lambda_function.py
+prev_url: 03-model-registry-serving.md
+next_url: 05-batch-scoring.md
 ---
 
 # Streaming: Deploying Models with Kinesis and Lambda

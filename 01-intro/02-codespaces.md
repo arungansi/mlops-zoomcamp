@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=MzcmWXYxi2s&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK&index=2"
+prev_url: 01-introduction.md
+next_url: 03-aws-vm.md
 ---
 
 # GitHub Codespaces

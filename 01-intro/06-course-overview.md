@@ -1,5 +1,7 @@
 ---
 video_url: "https://www.youtube.com/watch?v=teP9KWkP6SM&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK"
+prev_url: 05-train-duration-model.md
+next_url: 07-maturity-model.md
 ---
 
 # Course Overview

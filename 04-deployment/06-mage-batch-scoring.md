@@ -2,6 +2,8 @@
 code:
   - label: "Batch scoring implementation"
     path: batch/score.py
+prev_url: 05-batch-scoring.md
+next_url: ../05-monitoring/01-ml-monitoring.md
 ---
 
 # Batch Scoring with Mage

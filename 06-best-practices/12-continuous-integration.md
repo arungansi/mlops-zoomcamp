@@ -5,6 +5,8 @@ code:
     path: code/Makefile
   - label: "Project configuration"
     path: code/pyproject.toml
+prev_url: 11-cicd-introduction.md
+next_url: 13-continuous-delivery.md
 ---
 
 # Continuous Integration

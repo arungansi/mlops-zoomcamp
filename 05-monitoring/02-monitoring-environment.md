@@ -5,6 +5,8 @@ code:
     path: docker-compose.yml
   - label: "Monitoring requirements"
     path: requirements.txt
+prev_url: 01-ml-monitoring.md
+next_url: 03-reference-model.md
 ---
 
 # Environment Setup

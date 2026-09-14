@@ -4,6 +4,8 @@ code:
     path: code/commands.md
   - label: "Duration prediction script"
     path: code/duration-prediction.py
+prev_url: 02-notebook-to-script.md
+next_url: ../04-deployment/01-deployment-modes.md
 ---
 
 # Using an Orchestrator

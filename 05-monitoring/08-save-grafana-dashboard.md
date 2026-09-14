@@ -5,6 +5,8 @@ code:
     path: dashboards/data_drift.json
   - label: "Grafana provisioning"
     path: config/grafana_dashboards.yaml
+prev_url: 07-data-quality.md
+next_url: 09-debugging-tests-reports.md
 ---
 
 # Save Grafana Dashboard

@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=D7wfMAdgdF8&list=PL3MmuxUbc_hIUISrlu
 code:
   - label: "Flask web service"
     path: web-service/predict.py
+prev_url: 01-deployment-modes.md
+next_url: 03-model-registry-serving.md
 ---
 
 # Web Services: Deploying Models with Flask and Docker

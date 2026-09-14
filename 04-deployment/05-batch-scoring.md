@@ -3,6 +3,8 @@ video_url: "https://www.youtube.com/watch?v=18Lbaaeigek&list=PL3MmuxUbc_hIUISrlu
 code:
   - label: "Batch scoring code"
     path: batch/score.py
+prev_url: 04-streaming-kinesis-lambda.md
+next_url: 06-mage-batch-scoring.md
 ---
 
 # Batch: Preparing a Scoring Script

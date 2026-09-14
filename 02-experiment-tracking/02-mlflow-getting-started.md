@@ -5,6 +5,8 @@ code:
     path: requirements.txt
   - label: "Duration prediction notebook"
     path: duration-prediction.ipynb
+prev_url: 01-experiment-tracking-intro.md
+next_url: 03-experiment-tracking.md
 ---
 
 # Getting Started with MLflow

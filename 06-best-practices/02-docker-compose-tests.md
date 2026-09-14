@@ -5,6 +5,8 @@ code:
     path: code/integration-test/test_docker.py
   - label: "Integration test Compose file"
     path: code/integration-test/docker-compose.yaml
+prev_url: 01-pytest.md
+next_url: 03-localstack.md
 ---
 
 # Integration Tests with docker-compose

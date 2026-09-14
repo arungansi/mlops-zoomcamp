@@ -5,6 +5,8 @@ code:
     path: baseline_model_nyc_taxi_data.ipynb
   - label: "Grafana Compose stack"
     path: docker-compose.yml
+prev_url: 04-evidently-metrics.md
+next_url: 06-dummy-monitoring.md
 ---
 
 # Evidently Monitoring Dashboard
